@@ -30,3 +30,4 @@ A burger ordering system!
 Node.js, MySQL
 
 ## Live deployment
+[Heroku app](https://damp-headland-71777.herokuapp.com/)
